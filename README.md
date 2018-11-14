@@ -1,3 +1,6 @@
+# READ THIS
+this repository is not maintained anymore, use https://github.com/bitbar/opencv-library instead
+
 # Overview
 This is an image recognition library that can be used for mobile application testing.
 
